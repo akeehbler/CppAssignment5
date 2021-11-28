@@ -1,0 +1,11 @@
+10
+TeslaInc       TSLA 1013.39 1013.39
+NvidiaCorp     NVDA 300.25 300.25
+VisaInc        V    212.30 212.30
+JohnsonJohnson JNJ  163.52 163.52
+WalmartInc     WMT  146.91 146.91
+HomeDepot      HD   371.08 371.08
+AdobeInc       ADBE 659.73 659.73
+NetflixInc     NFLX 679.33 679.33
+WaltDisneyCo   DIS  158.43 158.43
+NikeInc        NKE  168.85 168.85
